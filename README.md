@@ -25,7 +25,7 @@ Languages: **German** - native   |   **English** - full professional profi
 
 ## <a name="tech">T E C H</a>
 
-JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Express, React, Sinatra, Capybara, Jest, Cypress, RSpec
+JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Express, React, Sinatra, Capybara, Jest, Cypress, RSpec, Handlebars, 
 
 <br>
 
@@ -37,6 +37,7 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 - I feel passionate about continuous learning and exploring new and different ways of doing things and am able to adapt to change. The broad range of projects in my previous career required an adaptability to the required specifications, as well as a willingness to explore and dive into project specific technologies and solutions.
 - When working on the exhibition for Antony Gormley at the Royal Academy of Arts, the project was under a tight deadline and within a few hours I was able to take up a new lighting control software and set up the scene settings for the entire exhibition.
 - In the context of Makers, we discussed our goals for the final project and our team decided on working with the MERN stack. With no prior knowledge of React, I was able to overcome the challenge of learning the new framework within a few days and contribute as an active member of the team.
+
 <br> 
 
 **Team work**
@@ -54,6 +55,20 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 <br> 
 
 ## <a name="experience">E X P E R I E N C E</a>
+
+**Makers Academy**<br>
+&emsp;**Software Engineering Bootcamp**<br>
+&emsp;04|2022 - 07|2022, London, UK<br>
+- An intensive 12 week bootcamp with an emphasis on self-directed learning
+- Focus on Test Driven Development and pair programming
+- During three team engineering projects employed Agile working methodologies
+- Object oriented programming & software design
+- Gained experience with MVC framework patterns
+- Over the period of the course progressed form basic understanding in Ruby, to writing full stack web applications in Ruby and JavaScript
+<br>
+<br>
+
+### Professional Experience
 During the past 7 years of working in the lighting design industry I had the chance to gain experience working on a large variety of projects in scale and complexity, ranging across hospitality, residential, commercial, public realm and leisure.<br>
 The job required collaborating with international design teams, liaising with architects, interior designers, clients, contractors etc, to develop lighting design concepts that were translated into technical detailing and deliverables to take projects from concept through to construction and commissioning phases.
 <br>
