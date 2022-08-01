@@ -59,13 +59,13 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 **Makers Academy**<br>
 &emsp;**Software Engineering Bootcamp**<br>
 &emsp;04|2022 - 07|2022, London, UK<br>
-- An intensive 12 week bootcamp with an emphasis on self-directed learning
+- An intensive 12 week course with an emphasis on self-directed learning
 - Focus on Test Driven Development and pair programming
 - During three team engineering projects employed Agile working methodologies
 - Object oriented programming & software design
 - Gained experience with MVC framework patterns
 - Over the period of the course progressed form basic understanding in Ruby, to writing full stack web applications in Ruby and JavaScript
-<br>
+- For the final project I was part of a team of 5, building a web application using the MERN stack. We employed Agile working methodolgies, running stand-ups, retros, sprints, creating user stories and MVP. Pair programming to work through tickets and mobbing whenever bigger problems blocked progress, throughout using Git for version control. 
 <br>
 
 ### Professional Experience
