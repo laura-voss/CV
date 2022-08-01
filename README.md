@@ -8,6 +8,12 @@
 Languages: **German** - native   |   **English** - full professional proficiency
 <br>
 
+I am a junior software engineer who recently completed Makers Academy and am looking forward to continue learning and growing as a developer. I have a background of working as an architectural lighting designer.<br>
+Coming from a design industry, with a passion for creating spaces and building custom solutions, I was surprised by how creative Software Development can be, which was one of the aspects that first drew me in.<br>
+Working with lighting in my previous career, the intangible nature of light itself and it’s power to transform spaces and impact emotions always felt quite magical.<br>
+Writing code evoked that same kind of sense of magic, a few lines of code, written words being able to create, build and change, with endless possibilities that seem to only be limited by time and ones willingness to learn and explore new things.
+
+
 </div>
 <br>
 <br>
