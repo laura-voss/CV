@@ -113,6 +113,33 @@ The job required collaborating with international design teams, liaising with ar
 <!-- - **Lewes Light**,**Festival of Light**, 10|2016, Lewes, UK<br> -->
 <br>
 
+## C O M P E T I T I O N S   &   I N S T A L L A T I O N S
+
+### Competitions
+&emsp;**Darc Night**<br>
+&emsp;&emsp;**Helios** - Best Darc Night Installation, 09|2017, London, UK<br>
+<br>
+
+&emsp;**AufRuhr! Wald und Holz Wettbewerb**<br>
+&emsp;&emsp;*(AufRuhr! Forest and Wood Competition)*<br>
+&emsp;&emsp;1st Prize, 08|2009, City of Arnsberg & FH Dortmund, Germany<br>
+<br>
+
+### Installations
+&emsp;**Helios**<br>
+&emsp;&emsp;**Luminale**, 03|2018, Frankfurt, Germany<br>
+&emsp;&emsp;**Winter Lights**, 01|2018, Canary Wharf, UK<br>
+&emsp;&emsp;**Darc Night**, 09|2017, London, UK<br>
+<br>
+
+&emsp;**Lewes Light**<br>
+&emsp;&emsp;**Festival of Light**, 10|2016, Lewes, UK<br>
+<br>
+
+&emsp;**Licht fuer die Kunst**<br>
+&emsp;&emsp;**9. Internationaler Lichtworkshop**, 11|2014, Neuruppin, Germany<br>
+
+<br>
 
 
 ## <a name="education">E D U C A T I O N</a>
