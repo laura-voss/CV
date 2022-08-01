@@ -16,6 +16,7 @@ Coming from a design industry, with a passion for creating spaces and building c
 Working with lighting in my previous career, the intangible nature of light itself and it’s power to transform spaces and impact emotions always felt quite magical.<br>
 Writing code evoked that same kind of sense of magic, a few lines of code, written words being able to create, build and change, with endless possibilities that seem to only be limited by time and ones willingness to learn and explore new things.
 <br>
+<br>
 
 
 ## <a name="tech">T E C H</a>
