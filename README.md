@@ -121,9 +121,9 @@ The job required collaborating with international design teams, liaising with ar
 
 ### Installations
 - **Helios**<br>
-&emsp;&emsp;**Luminale**, 03|2018, Frankfurt, Germany<br>
-&emsp;&emsp;**Winter Lights**, 01|2018, Canary Wharf, UK<br>
-&emsp;&emsp;**Darc Night**, 09|2017, London, UK<br>
+&emsp;**Luminale**, 03|2018, Frankfurt, Germany<br>
+&emsp;**Winter Lights**, 01|2018, Canary Wharf, UK<br>
+&emsp;**Darc Night**, 09|2017, London, UK<br>
 - **Lewes Light**, *Festival of Light*, 10|2016, Lewes, UK<br>
 - **Licht fuer die Kunst**, *9. Internationaler Lichtworkshop*, 11|2014, Neuruppin, Germany<br>
 <br>
