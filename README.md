@@ -115,11 +115,11 @@ The job required collaborating with international design teams, liaising with ar
 
 ## C O M P E T I T I O N S   &   I N S T A L L A T I O N S
 
-### Competitions
+**Competitions**<br>
 - **Darc Night**, *'Helios'* - Best Darc Night Installation, 09|2017, London, UK<br>
 - **AufRuhr! Wald und Holz Wettbewerb**, *(AufRuhr! Forest and Wood Competition)*, 1st Prize, 08|2009, City of Arnsberg & FH Dortmund, Germany<br>
 
-### Installations
+**Installations**<br>
 - **Helios**<br>
 &emsp;**Luminale**, 03|2018, Frankfurt, Germany<br>
 &emsp;**Winter Lights**, 01|2018, Canary Wharf, UK<br>
