@@ -44,6 +44,11 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 - On Matteo’s restaurant at Annabel’s, the custom internally illuminated cast mirror bar required the highest level of coordination with no room for error, as once assembled wouldn’t allow for any changes. In order to ensure financial requirements were met and delays avoided, I collaborated with contractors and specialists regarding site conditions, reviewed different products and lighting control options, validated design and installation intent through multiple mock-ups and was dedicated with an eye for detail to ensure that technical needs were met.
 <br> 
 
+**Team work**
+- The project based nature of lighting design, brings with it ever changing teams of people from varying disciplines with different professional and national backgrounds. The experience of working in these environments has set me up with tools for collaboration, from communication skills, open-mindedness, to being able to take different roles within teams, like leading a project or being able to take a more supportive position in a project run by someone else.
+- The Tokyo EDITION, Toranomon involved an American client, Japanese Architect and real-estate developer, as well as a UK based lighting design company. In order to overcome challenges of working across the different time zones, it took substantial coordination and keeping an open mind to different ways of communicating instead of the traditional face to face meetings. In addition to video conferencing, I relied heavily on active email exchanges, using sketches and mark-ups to visually aide understanding of complex challenges.
+<br> 
+
 ## <a name="experience">E X P E R I E N C E</a>
 During the past 7 years of working in the lighting design industry I had the chance to gain experience working on a large variety of projects in scale and complexity, ranging across hospitality, residential, commercial, public realm and leisure.<br>
 The job required collaborating with design teams, liaising with architects, interior designers, clients, contractors etc, to develop lighting design concepts that were translated into technical detailing and deliverables to take projects from concept through to construction and commissioning phases.
