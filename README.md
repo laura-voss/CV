@@ -10,7 +10,7 @@ Languages: **German** - native   |   **English** - full professional profi
 <br>
 </div>
 
-I am a junior software engineer who recently completed Makers Academy and am looking forward to continue learning and growing as a developer. I have a background of working as an architectural lighting designer and coming from a design industry, with a passion for creating spaces and building custom solutions, I was surprised by how creative Software Development can be, which was one of the aspects that first drew me in.<br>
+I am a Junior Software Engineer, recently completed [Makers Academy Bootcamp](#makers) and am looking forward to continue learning and growing as a developer. I have a background of working as an architectural lighting designer and coming from a design industry, with a passion for creating spaces and building custom solutions, I was surprised by how creative Software Development can be, which was one of the aspects that first drew me in.<br>
 <br>
 Working with lighting in my previous career, the intangible nature of light itself and it’s power to transform spaces and impact emotions always felt quite magical.<br>
 Writing code evoked that same kind of sense of magic, a few lines of code, written words being able to create, build and change, with endless possibilities that seem to only be limited by time and ones willingness to learn and explore new things.
@@ -59,11 +59,15 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 - On Matteo’s restaurant at Annabel’s, the custom internally illuminated cast mirror bar required the highest level of coordination with no room for error, as once assembled wouldn’t allow for any changes. In order to ensure financial requirements were met and delays avoided, I collaborated with contractors and specialists regarding site conditions, reviewed different products and lighting control options, validated design and installation intent through multiple mock-ups and was dedicated with an eye for detail to ensure that technical needs were met.
 <br> 
 
-## <a name="experience">E X P E R I E N C E</a>
 
-**Makers Academy**<br>
+
+## <a name="education">E D U C A T I O N</a>
+
+**<a name="makers">Makers Academy</a>**<br>
 &emsp;**Software Engineering Bootcamp**<br>
 &emsp;04|2022 - 07|2022, London, UK<br>
+&emsp;*Hybrid*<br>
+
 - An intensive 12 week course with an emphasis on self-directed learning
 - Focus on Test Driven Development and pair programming
 - During three team engineering projects employed Agile working methodologies
@@ -72,8 +76,31 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 - Over the period of the course progressed form basic understanding in Ruby, to writing full stack web applications in Ruby and JavaScript
 - For the final project I was part of a team of 5, building a web application using the MERN stack. We employed Agile working methodolgies, running stand-ups, retros, sprints, creating user stories and MVP. Pair programming to work through tickets and mobbing whenever bigger problems blocked progress, throughout using Git for version control. 
 <br>
+<br>
 
-### Professional Experience
+**Hochschule Wismar**<br>
+&emsp;**MA Architectural Lighting Design**<br>
+&emsp;09|2014 - 07|2016, Wismar, Germany<br>
+&emsp;*graduated with distinction*<br>
+<!-- - **Licht fuer die Kunst**, **9. Internationaler Lichtworkshop**, 11|2014, Neuruppin, Germany<br> -->
+
+
+&emsp;**Master Thesis**<br>
+&emsp;Light Pollution - Problems and Solutions<br>
+- *The thesis looks into a variety of issues resulting from light pollution, 
+covering the effects on humans, animals and plants and compares a selection
+of different strategies and approaches proposed by different countries and cities to control and reduce the problems.*
+<br>
+ 
+**Fachhochschule Dortmund**<br>
+&emsp;**BA Architecture**<br>
+&emsp;09|2008 - 10|2014, Dortmund, Germany<br>
+<!-- - **AufRuhr! Wald und Holz Wettbewerb**,1st Prize, 08|2009, City of Arnsberg & FH Dortmund, Germany<br> -->
+<br>
+
+
+## <a name="experience">E X P E R I E N C E</a>
+
 During the past 7 years of working in the lighting design industry I had the chance to gain experience working on a large variety of projects in scale and complexity, ranging across hospitality, residential, commercial, public realm and leisure.<br>
 The job required collaborating with international design teams, liaising with architects, interior designers, clients, contractors etc, to develop lighting design concepts that were translated into technical detailing and deliverables to take projects from concept through to construction and commissioning phases.
 <br>
@@ -128,36 +155,6 @@ The job required collaborating with international design teams, liaising with ar
 - **Lewes Light**, *Festival of Light*, 10|2016, Lewes, UK<br>
 - **Licht fuer die Kunst**, *9. Internationaler Lichtworkshop*, 11|2014, Neuruppin, Germany<br>
 <br>
-
-
-## <a name="education">E D U C A T I O N</a>
-
-**Makers Academy**<br>
-&emsp;**Software Engineering Bootcamp**<br>
-&emsp;04|2022 - 07|2022, London, UK<br>
-&emsp;*Hybrid*<br>
-<br>
-
-**Hochschule Wismar**<br>
-&emsp;**MA Architectural Lighting Design**<br>
-&emsp;09|2014 - 07|2016, Wismar, Germany<br>
-&emsp;*graduated with distinction*<br>
-<!-- - **Licht fuer die Kunst**, **9. Internationaler Lichtworkshop**, 11|2014, Neuruppin, Germany<br> -->
-
-
-&emsp;**Master Thesis**<br>
-&emsp;Light Pollution - Problems and Solutions<br>
-- *The thesis looks into a variety of issues resulting from light pollution, 
-covering the effects on humans, animals and plants and compares a selection
-of different strategies and approaches proposed by different countries and cities to control and reduce the problems.*
-<br>
- 
-**Fachhochschule Dortmund**<br>
-&emsp;**BA Architecture**<br>
-&emsp;09|2008 - 10|2014, Dortmund, Germany<br>
-<!-- - **AufRuhr! Wald und Holz Wettbewerb**,1st Prize, 08|2009, City of Arnsberg & FH Dortmund, Germany<br> -->
-<br>
-
 
 
 
