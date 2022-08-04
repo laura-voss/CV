@@ -88,8 +88,7 @@ of different strategies and approaches proposed by different countries and citie
 <br>
  
 **BA Architecture**<br>
-&emsp;**Fachhochschule Dortmund**<br>
-&emsp;09|2008 - 10|2014, Dortmund, Germany<br>
+Fachhochschule Dortmund, *09|2008 - 10|2014, Dortmund, Germany*<br>
 <!-- - **AufRuhr! Wald und Holz Wettbewerb**,1st Prize, 08|2009, City of Arnsberg & FH Dortmund, Germany<br> -->
 <br>
 
