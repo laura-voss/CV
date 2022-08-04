@@ -64,7 +64,7 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 ## <a name="education">E D U C A T I O N</a>
 
 **Software Engineering Bootcamp**<br>
-*<a name="makers">Makers Academy</a>*, 04|2022 - 07|2022, London, UK<br>
+<a name="makers">Makers Academy</a>, *04|2022 - 07|2022, London, UK*<br>
 *Hybrid*<br>
 
 - An intensive 12 week course with an emphasis on self-directed learning
@@ -77,7 +77,7 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 <br>
 
 **MA Architectural Lighting Design**<br>
-*Hochschule Wismar*, 09|2014 - 07|2016, Wismar, Germany<br>
+Hochschule Wismar, *09|2014 - 07|2016, Wismar, Germany*<br>
 *graduated with distinction*<br>
 <!-- - **Licht fuer die Kunst**, **9. Internationaler Lichtworkshop**, 11|2014, Neuruppin, Germany<br> -->
 
