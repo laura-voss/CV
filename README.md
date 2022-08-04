@@ -104,21 +104,21 @@ The job required collaborating with international design teams, liaising with ar
 <br>
 <br>
 
-**Lighting Designer**
+**Lighting Designer**<br>
 &emsp;*Foundry*, 06|2020 - 12|2021, London, UK
 <!-- - During my time at Foundry I got involved in the supply of light fittings, getting hands on experience with costing and coordination of purchasing, taking on the challenge of delivering thoughtful design solutions that needed to meet tight budget requirements -->
 - I took responsibility for the training of junior lighting designers, from presentations to technical learning. In order to give them a better understanding of the different factors that play into good lighting design, I would break down the different design elements into  what we would want a certain light fitting to achieve in the space, in terms of the feeling and look of the space, to what technical specifications would be required to achieve them. Using mock-ups and sample reviews to provide further insight into the physical aspect of installations and detailing, as well as technical specifications of different LEDs, drivers and lighting control systems
 <br>
 
-**Intermediate Lighting Designer**, *Isometrix Lighting and Design*, 12|2018 - 05|2020, London, UK
+**Intermediate Lighting Designer**<br>
+&emsp;*Isometrix Lighting and Design*, 12|2018 - 05|2020, London, UK
 - While working at Isometrix I was in charge of the lighting design for the [Antony Gormley exhibition at the Royal Academy of Arts](https://www.royalacademy.org.uk/exhibition/antony-gormley), London (21/09/2019 - 03/12/2019). With no prior knowledge of exhibition lighting design I was able to adapt quickly and successfully deliver the project, respecting the artists requirements for his vision for the spaces, meeting budget requirements by maximising the utilisations of existing lighting systems and optimise custom solutions, while working within tight time constraints in collaboration and coordination with a multitude of specialists
 - I delivered the lighting design for [Matteo’s](https://www.vogue.com/slideshow/matteos-the-new-restaurant-at-annabels-pays-homage-to-the-classic-london-nightclub) at Annabel’s, where keeping the clients needs in mind I proactively made strategical electrical allowances throughout the project, that allowed me to respond to changes and introduce additional lighting later on in the project to meet the clients vision
 - As part of working on [The Tokyo EDITION, Toranomon](https://www.editionhotels.com/tokyo-toranomon/gallery/), I developed the lighting strategy for the [large wooden eaves](https://3mqn2638gdg2l7zpcs1tm3q0-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2_EDT_Tokyo2_09_RGB_V2-scaled.jpg) that define the design of the main lobby bar and restaurant. Due to the size and construction of their design, I heavily relied on using a lighting modelling software for the calculations in order to develop the technical detailing. Precision and being detail oriented using this approach ensured that the end result matched the lighting calculations and the clients design expectations
 <br>
 
-**dpa lighting consultants**<br>
-&emsp;**Designer**<br>
-&emsp;03|2017 - 11|2018, London, UK<br>
+**Designer**<br>
+*dpa lighting consultants*, 03|2017 - 11|2018, London, UK<br>
 <!-- - **Darc Night**,**'Helios'** - Best Darc Night Installation, 09|2017, London, UK<br>
 &emsp;&emsp;**Luminale**, 03|2018, Frankfurt, Germany<br>
 &emsp;&emsp;**Winter Lights**, 01|2018, Canary Wharf, UK<br>
@@ -126,12 +126,11 @@ The job required collaborating with international design teams, liaising with ar
 <br>
 
 
-**Nulty**<br>
-&emsp;**Junior Lighting Designer**<br>
-&emsp;02|2016 - 02|2017, London, UK<br>
+**Junior Lighting Designer**<br>
+*Nulty*, 02|2016 - 02|2017, London, UK<br>
 
-&emsp;**Intern Lighting Designer**<br>
-&emsp;08|2015 - 01|2016, London, UK<br>
+**Intern Lighting Designer**<br>
+*Nulty*, 08|2015 - 01|2016, London, UK<br>
 <!-- - **Lewes Light**,**Festival of Light**, 10|2016, Lewes, UK<br> -->
 <br>
 
