@@ -46,7 +46,7 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 <br> 
 
 **Team work**
-- The project based nature of lighting design, brings with it ever changing teams of people from varying disciplines with different professional. The experience of working in these environments has set me up with tools for collaboration, from communication skills, open-mindedness, to being able to take different roles within teams, like leading a project or being able to take a more supportive position in a project run by someone else.
+- The project based nature of lighting design, brings with it ever changing teams of people from varying disciplines with different professional backgrounds. The experience of working in these environments has set me up with tools for collaboration, from communication skills, open-mindedness, to being able to take different roles within teams, like leading a project or being able to take a more supportive position in a project run by someone else.
 - The Tokyo EDITION, Toranomon involved an American client, Japanese Architect and real-estate developer, as well as a UK based lighting design company. In order to overcome challenges of working across the different time zones, it took substantial coordination and keeping an open mind to different ways of communicating instead of the traditional face to face meetings. In addition to video conferencing, I relied heavily on active email exchanges, using sketches and mark-ups to visually aide understanding of complex challenges.
 <br> 
 
@@ -73,7 +73,7 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 - Object oriented programming & software design
 - Gained experience with MVC framework patterns
 - Over the period of the course progressed form basic understanding in Ruby, to writing full stack web applications in Ruby and JavaScript
-- For the final project I was part of a team of 5, building a web application using the MERN stack. We employed Agile working methodologies, running stand-ups, retros, sprints, creating user stories and MVP. Pair programming to work through tickets and mobbing whenever bigger problems blocked progress, throughout using Git for version control. 
+- For the final project I was part of a team of 5, building a web application using the MERN stack. We employed Agile working methodologies, running stand-ups, retros, sprints, creating user stories and an MVP. Pair programming to work through tickets and mobbing whenever bigger problems blocked progress, throughout using Git for version control. 
 <br>
 
 **MA Architectural Lighting Design**<br>
@@ -102,15 +102,21 @@ The job required collaborating with international design teams, liaising with ar
 
 **Lighting Designer**<br>
 *Foundry*, 06|2020 - 12|2021, London, UK
-<!-- - During my time at Foundry I got involved in the supply of light fittings, getting hands on experience with costing and coordination of purchasing, taking on the challenge of delivering thoughtful design solutions that needed to meet tight budget requirements -->
-- I took responsibility for the training of junior lighting designers, from presentations to technical learning. In order to give them a better understanding of the different factors that play into good lighting design, I would break down the different design elements into  what we would want a certain light fitting to achieve in the space, in terms of the feeling and look of the space, to what technical specifications would be required to achieve them. Using mock-ups and sample reviews to provide further insight into the physical aspect of installations and detailing, as well as technical specifications of different LEDs, drivers and lighting control systems
+- took leadership on hitting targets of reduced lighting budgets, while maintaining the integrity of the design strategy
+- detail oriented and dedicated approach to avert project delays
+- further developed my commercial awareness, getting involved with purchasing and supply of 3rd party light fittings
+- took initiative for the responsibility of training the 3 junior lighting designers 
+- brought strong team working skills to all my projects, which are integral to architectural lighting design, where coordination and working towards a common goal between a multitude of disciplines is crucial, to ensure the highest quality end results
+
 <br>
 
 **Intermediate Lighting Designer**<br>
 *Isometrix Lighting and Design*, 12|2018 - 05|2020, London, UK
-- While working at Isometrix I was in charge of the lighting design for the [Antony Gormley exhibition at the Royal Academy of Arts](https://www.royalacademy.org.uk/exhibition/antony-gormley), London (21/09/2019 - 03/12/2019). With no prior knowledge of exhibition lighting design I was able to adapt quickly and successfully deliver the project, respecting the artists requirements for his vision for the spaces, meeting budget requirements by maximising the utilisations of existing lighting systems and optimise custom solutions, while working within tight time constraints in collaboration and coordination with a multitude of specialists
-- I delivered the lighting design for [Matteo’s](https://www.vogue.com/slideshow/matteos-the-new-restaurant-at-annabels-pays-homage-to-the-classic-london-nightclub) at Annabel’s, where keeping the clients needs in mind I proactively made strategical electrical allowances throughout the project, that allowed me to respond to changes and introduce additional lighting later on in the project to meet the clients vision
-- As part of working on [The Tokyo EDITION, Toranomon](https://www.editionhotels.com/tokyo-toranomon/gallery/), I developed the lighting strategy for the [large wooden eaves](https://3mqn2638gdg2l7zpcs1tm3q0-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/2_EDT_Tokyo2_09_RGB_V2-scaled.jpg) that define the design of the main lobby bar and restaurant. Due to the size and construction of their design, I heavily relied on using a lighting modelling software for the calculations in order to develop the technical detailing. Precision and being detail oriented using this approach ensured that the end result matched the lighting calculations and the clients design expectations
+- successfully delivered a variety of high-end international projects from hospitality, residential to exhibitions
+- lead projects from concept stage to construction, managing and prioritising workload and information packages across a multitude of projects simultaneously, including the Antony Gormley Exhibition at the Royal Academy of Arts, Matteo's at Annabel's and The Tokyo EDITION, Toranomon
+- tight deadlines and the dynamic nature of projects required strong problem-solving abilities and personal resilience, these allowed me to respond to unforeseen challenges and my ability to think outside the box let me resolve them efficiently
+- used strong communication skills to collaborate with international design teams 
+- my passion for continuous learning allowed me to explore and implement new and unconventional solutions and project specific technologies even under critical time constraints
 <br>
 
 **Designer**<br>
