@@ -56,7 +56,6 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 
 **Responsible/Diligent**
 - Lighting design as a discipline requires the coordination of a multitude of disciplines involved in the construction process, from the visual interior design to technical integration with building services. Tight deadlines are therefor not unusual and missed, delayed or inaccurate delivery of information can cause wide ranging delays and cause cost increases.
-- On Matteo’s restaurant at Annabel’s, the custom internally illuminated cast mirror bar required the highest level of coordination with no room for error, as once assembled wouldn’t allow for any changes. In order to ensure financial requirements were met and delays avoided, I collaborated with contractors and specialists regarding site conditions, reviewed different products and lighting control options, validated design and installation intent through multiple mock-ups and was dedicated with an eye for detail to ensure that technical needs were met.
 <br> 
 
 
