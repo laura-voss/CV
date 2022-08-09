@@ -73,7 +73,7 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 - Object oriented programming & software design
 - Gained experience with MVC framework patterns
 - Over the period of the course progressed form basic understanding in Ruby, to writing full stack web applications in Ruby and JavaScript
-- For the final project I was part of a team of 5, building a web application using the MERN stack. We employed Agile working methodologies, running stand-ups, retros, sprints, creating user stories and an MVP. Pair programming to work through tickets and mobbing whenever bigger problems blocked progress, throughout using Git for version control. 
+- For the final project I was part of a team of 5, building a web application using the MERN stack. We employed Agile working methodologies, running stand-ups, retros, sprints, creating user stories and an MVP. Pair programming to work through tickets and mobbing whenever bigger problems blocked progress. Throughout using Git for version control. 
 <br>
 
 **MA Architectural Lighting Design**<br>
@@ -102,8 +102,8 @@ The job required collaborating with international design teams, liaising with ar
 
 **Lighting Designer**<br>
 *Foundry*, 06|2020 - 12|2021, London, UK
-- took leadership on hitting targets of reduced lighting budgets, while maintaining the integrity of the design strategy
-- detail oriented and dedicated approach to avert project delays
+- took leadership for hitting targets of reduced lighting budgets, while maintaining the integrity of the design strategy
+- practiced detail oriented and dedicated approach to avert project delays
 - further developed my commercial awareness, getting involved with purchasing and supply of 3rd party light fittings
 - took initiative for the responsibility of training the 3 junior lighting designers 
 - brought strong team working skills to all my projects, which are integral to architectural lighting design, where coordination and working towards a common goal between a multitude of disciplines is crucial, to ensure the highest quality end results
