@@ -3,7 +3,7 @@
 # Laura Voss #
 <br>
 
-[Tech](#tech) | [Key Projects](#projects) | [Education](#education) |  [Interests](#interests)
+[Tech](#tech) | [Key Projects](#projects) | [Skills](#skills) | [Education](#education) |  [Interests](#interests)
 
 Languages: **German** - native   |   **English** - full professional proficiency
 <br>
@@ -36,7 +36,7 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 
 
 
-## S K I L L S
+## <a name="skills">S K I L L S</a>
 
 **Motivated to learn**
 - I feel passionate about continuous learning and exploring new and different ways of doing things and am able to adapt to change. The broad range of projects in my previous career required an adaptability to the required specifications, as well as a willingness to explore and dive into project specific technologies and solutions.
