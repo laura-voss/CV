@@ -102,7 +102,7 @@ Fachhochschule Dortmund, *09|2008 - 10|2014, Dortmund, Germany*<br>
 <br>
 
 
-## <a name="experience">P R O F E S S I O N A L   E X P E R I E N C E</a>
+## <a name="experience">P R O F E S S I O N A L   E X P E R I E N C E</a>
 
 During the past 7 years of working in the lighting design industry I had the chance to gain experience working on a large variety of projects in scale and complexity, ranging across hospitality, residential, commercial, public realm and leisure.<br>
 The job required collaborating with international design teams, liaising with architects, interior designers, clients, contractors etc, to develop lighting design concepts that were translated into technical detailing and deliverables to take projects from concept through to construction and commissioning phases.
@@ -138,11 +138,11 @@ The job required collaborating with international design teams, liaising with ar
 
 
 **Junior Lighting Designer**<br>
-02|2016 - 02|2017, London, UK<br>
+*Nulty*, 02|2016 - 02|2017, London, UK<br>
+
 **Intern Lighting Designer**<br>
-08|2015 - 01|2016, London, UK<br>
+*Nulty*, 08|2015 - 01|2016, London, UK<br>
 <!-- - **Lewes Light**,**Festival of Light**, 10|2016, Lewes, UK<br> -->
-*Nulty*
 <br>
 
 ## <a name="competitions">C O M P E T I T I O N S   &   I N S T A L L A T I O N S</a>
