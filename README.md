@@ -3,7 +3,7 @@
 # Laura Voss #
 <br>
 
-[Tech](#tech) | [Key Projects](#projects) | [Skills](#skills) | [Education](#education) |  [Interests](#interests)
+[Tech](#tech) | [Key Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) |  [Interests](#interests)
 
 Languages: **German** - native   |   **English** - full professional proficiency
 <br>
