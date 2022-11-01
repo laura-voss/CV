@@ -3,7 +3,7 @@
 # Laura Voss #
 <br>
 
-[Tech](#tech) | [Key Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) |  [Interests](#interests)
+[Tech](#tech) | [Key Projects](#projects) | [Hackathon](#hackathon) | [Skills](#skills) | [Education](#education) <br> [Experience](#experience) | [Competitions & Installations](#competitions) | [Interests](#interests)
 
 Languages: **German** - native   |   **English** - full professional proficiency
 <br>
@@ -20,7 +20,7 @@ Writing code evoked that same kind of sense of magic, a few lines of code, writt
 
 ## <a name="tech">T E C H</a>
 
-JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Express, React, Sinatra, Capybara, Jest, Cypress, RSpec, Handlebars, 
+JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Express, React, Sinatra, Capybara, Jest, Cypress, RSpec, Handlebars 
 
 <br>
 
@@ -32,6 +32,16 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 | [Palendar](https://github.com/laura-voss/Palendar) | Friend Calendar Coordination App | MongoDB, Express, React, NodeJS, Jest, Bcrypt, Cypress |
 | [Acebook](https://github.com/laura-voss/acebook) | Facebook Clone | MongoDB, Express, Handlebars, NodeJS, Jest, Cypress |
 | [MakersBnB](https://github.com/laura-voss/april22-makersbnb-jaguar) | AirBnB Clone | Ruby, RSpec, sinatra, capybara, PostgreSQL |
+<br>
+
+
+
+## <a name="hackathon">H A C K A T H O N</a>
+
+**Athena Hackathon October '22**<br>
+*ShowCode*, 22|10|2022 - 23|10|2022, London, UK
+- a 24-hour in-person hack
+
 <br>
 
 
@@ -135,7 +145,7 @@ The job required collaborating with international design teams, liaising with ar
 <!-- - **Lewes Light**,**Festival of Light**, 10|2016, Lewes, UK<br> -->
 <br>
 
-## C O M P E T I T I O N S   &   I N S T A L L A T I O N S
+## <a name="competitions">C O M P E T I T I O N S   &   I N S T A L L A T I O N S</a>
 
 **Competitions**
 - **Darc Night**, *'Helios'* - Best Darc Night Installation, 09|2017, London, UK<br>
