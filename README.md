@@ -20,7 +20,7 @@ Writing code evoked that same kind of sense of magic, a few lines of code, writt
 
 ## <a name="tech">T E C H</a>
 
-JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Express, React, Sinatra, Capybara, Jest, Cypress, RSpec, Handlebars 
+JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Express, React, Sinatra, Capybara, Jest, Cypress, RSpec, Handlebars, Figma
 
 <br>
 
@@ -59,9 +59,9 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 - Due to the multidisciplinary nature of lighting design projects, problem solving is a main aspect of the profession. At any stage of the project changes are possible and inevitable, from design changes, unexpected site conditions, delays, reduced budgets to faulty products. An ability to react to those challenges and being able to prioritise and turn around a solution promptly is essential and at times requires unconventional approaches.
 <br>
 
-**Responsible/Diligent**
+<!-- **Responsible/Diligent**
 - Lighting design as a discipline requires the coordination of a multitude of disciplines involved in the construction process, from the visual interior design to technical integration with building services. Tight deadlines are therefor not unusual and missed, delayed or inaccurate delivery of information can cause wide ranging delays and cause cost increases.
-<br> 
+<br>  -->
 
 
 
@@ -163,6 +163,7 @@ The job required collaborating with international design teams, liaising with ar
 - **bouldering**   |   quite recently discovered passion (at this point pretty much a V0 - V1 enthusiast)
 <!-- - **cycling**   |   nothing better than exploring London by bike on a Sunday afternoon -->
 - **roller skating**   |   the old school quad kind of type (aspiring artistic roller skater, in reality still working on a clean heel toe spin)
+- **live music**
 - **plant collection**   |   all about the lush green, all about aroids (over the moon about my monstera albos latest leaf turning out half moon)
 - **podcasts**   |   podcasts, podcasts, podcasts
 <br>
