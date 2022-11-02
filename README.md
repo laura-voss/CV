@@ -37,9 +37,10 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 
 ## <a name="hackathon">H A C K A T H O N S</a>
 
-[]() |
----- | ----
-rom  | row2
+
+|---- | ---- |
+| rom  | row2 |
+
 **Athena Hackathon October '22**<br>
 *ShowCode*, 22|10|2022 - 23|10|2022, London, UK
 - 24-hour in-person hack 
