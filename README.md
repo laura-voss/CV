@@ -36,8 +36,8 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 
 
 ## <a name="hackathon">H A C K A T H O N</a>
-| Name | Description | Location | 
- | ---- | ----------- | -------- |
+| Name | Description | 
+ | ---- | ----------- | 
  | **Athena Hackathon October '22**<br> *ShowCode*, 22/10/2022 - 23/10/2022, London, UK<br> * 24-hour in-person hack <br> * we were a team of 5 and it was the first full hackathon for all of us <br> * our team chose the R² Factory theme 'How can households reduce their carbon footprint?' | <img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/cera.png" width="400"> |
 
 
