@@ -39,11 +39,12 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 
 **Athena Hackathon October '22**<br>
 *ShowCode*, 22|10|2022 - 23|10|2022, London, UK
+* 24-hour in-person hack 
+* we were a team of 5 and it was the first full hackathon for all of us 
+* our team chose the R² Factory theme 'How can households reduce their carbon footprint?'
 
-|   | Description | Demo | 
-| - | ----------- | -------- | 
-| [certificate](https://credsverse.com/credentials/848c61fb-1962-4d30-bdd5-94ed84a62d07)  | - 24-hour in-person hack <br> - we were a team of 5 and it was the first full hackathon for all of us <br> - our team chose the R² Factory theme 'How can households reduce their carbon footprint?' | <img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/cera.png" width="800"> |
-<br>
+* [certificate](https://credsverse.com/credentials/848c61fb-1962-4d30-bdd5-94ed84a62d07)
+<img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/cera.png" width="800">
 
 
 ## <a name="skills">S K I L L S</a>
