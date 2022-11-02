@@ -29,8 +29,8 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 
 | Name    | Descriptions    | Tech/ Tools     | Demo |
 | ------- | --------------- | --------------- |-----|
-| [Palendar](https://github.com/laura-voss/Palendar) | Friend Calendar Coordination App | MongoDB, Express, React, NodeJS, Jest, Bcrypt, Cypress | ![Palendar](readme_images/group_calendar.png) |
-| [Acebook](https://github.com/laura-voss/acebook) | Facebook Clone | MongoDB, Express, Handlebars, NodeJS, Jest, Cypress | ![Acebook](readme_images/timeline.png) |
+| [Palendar](https://github.com/laura-voss/Palendar) | Friend Calendar Coordination App | MongoDB, Express, React, NodeJS, Jest, Bcrypt, Cypress | ![Palendar](images/group_calendar.png) |
+| [Acebook](https://github.com/laura-voss/acebook) | Facebook Clone | MongoDB, Express, Handlebars, NodeJS, Jest, Cypress | ![Acebook](images/timeline.png) |
 | [MakersBnB](https://github.com/laura-voss/april22-makersbnb-jaguar) | AirBnB Clone | Ruby, RSpec, sinatra, capybara, PostgreSQL | .. |
 <br>
 
