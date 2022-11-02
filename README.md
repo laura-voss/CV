@@ -29,13 +29,17 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 
 | Name    | Descriptions    | Tech/ Tools     | Demo |
 | ------- | --------------- | --------------- |-----|
-| [Palendar](https://github.com/laura-voss/Palendar) | Friend Calendar Coordination App | MongoDB, Express, React, NodeJS, Jest, Bcrypt, Cypress | <img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/group_calendar.png" width="800"> |
-| [Acebook](https://github.com/laura-voss/acebook) | Facebook Clone | MongoDB, Express, Handlebars, NodeJS, Jest, Cypress | <img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/timeline.png" width="800"> |
-| [MakersBnB](https://github.com/laura-voss/april22-makersbnb-jaguar) | AirBnB Clone | Ruby, RSpec, sinatra, capybara, PostgreSQL | <img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/homes.png" width="800">  |
+| [Palendar](https://github.com/laura-voss/Palendar) | Friend Calendar Coordination App | MongoDB, Express, React, NodeJS, Jest, Bcrypt, Cypress | <img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/group_calendar.png" width="400"> |
+| [Acebook](https://github.com/laura-voss/acebook) | Facebook Clone | MongoDB, Express, Handlebars, NodeJS, Jest, Cypress | <img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/timeline.png" width="400"> |
+| [MakersBnB](https://github.com/laura-voss/april22-makersbnb-jaguar) | AirBnB Clone | Ruby, RSpec, sinatra, capybara, PostgreSQL | <img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/homes.png" width="400">  |
 <br>
 
 
-## <a name="hackathon">H A C K A T H O N S</a>
+## <a name="hackathon">H A C K A T H O N</a>
+| Name | Description | Location | Demo |
+ | ---- | ----------- | -------- | ---- |
+ | [Athena Hackathon October 2022](https://credsverse.com/credentials/848c61fb-1962-4d30-bdd5-94ed84a62d07) | * 24-hour in-person hack <br> * we were a team of 5 and it was the first full hackathon for all of us <br> * our team chose the R² Factory theme 'How can households reduce their carbon footprint?' | <img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/cera.png" width="400"> |
+
 
 **Athena Hackathon October '22**<br>
 *ShowCode*, 22|10|2022 - 23|10|2022, London, UK
@@ -43,7 +47,8 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 - we were a team of 5 and it was the first full hackathon for all of us 
 - our team chose the R² Factory theme 'How can households reduce their carbon footprint?'
 - [certificate](https://credsverse.com/credentials/848c61fb-1962-4d30-bdd5-94ed84a62d07)
-<img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/cera.png" width="300">
+<img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/cera.png" width="400">
+
 
 
 ## <a name="skills">S K I L L S</a>
