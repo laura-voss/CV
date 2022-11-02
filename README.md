@@ -37,9 +37,9 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 
 ## <a name="hackathon">H A C K A T H O N S</a>
 
-| Name | Description | Location | 
+| Name | Description | Demo | 
 | ---- | ----------- | -------- | 
-| [Athena Hackathon October 2022](https://credsverse.com/credentials/848c61fb-1962-4d30-bdd5-94ed84a62d07) | * 24-hour in-person hack <br> * we were a team of 5 and it was the first full hackathon for all of us <br> * our team chose the R² Factory theme 'How can households reduce their carbon footprint?' | <img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/cera.png" width="800"> |
+| [Athena Hackathon October 2022](https://credsverse.com/credentials/848c61fb-1962-4d30-bdd5-94ed84a62d07) | - 24-hour in-person hack <br> - we were a team of 5 and it was the first full hackathon for all of us <br> - our team chose the R² Factory theme 'How can households reduce their carbon footprint?' | <img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/cera.png" width="800"> |
 
 
 
