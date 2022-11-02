@@ -27,11 +27,11 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 
 ## <a name="projects">K E Y   P R O J E C T S</a>
 
-| Name    | Descriptions    | Tech/ Tools     |
-| ------- | --------------- | --------------- |
-| [Palendar](https://github.com/laura-voss/Palendar) | Friend Calendar Coordination App | MongoDB, Express, React, NodeJS, Jest, Bcrypt, Cypress |
-| [Acebook](https://github.com/laura-voss/acebook) | Facebook Clone | MongoDB, Express, Handlebars, NodeJS, Jest, Cypress |
-| [MakersBnB](https://github.com/laura-voss/april22-makersbnb-jaguar) | AirBnB Clone | Ruby, RSpec, sinatra, capybara, PostgreSQL |
+| Name    | Descriptions    | Tech/ Tools     | Demo |
+| ------- | --------------- | --------------- |-----|
+| [Palendar](https://github.com/laura-voss/Palendar) | Friend Calendar Coordination App | MongoDB, Express, React, NodeJS, Jest, Bcrypt, Cypress | ![Palendar](readme_images/group_calendar.png) |
+| [Acebook](https://github.com/laura-voss/acebook) | Facebook Clone | MongoDB, Express, Handlebars, NodeJS, Jest, Cypress | ![Acebook](readme_images/timeline.png) |
+| [MakersBnB](https://github.com/laura-voss/april22-makersbnb-jaguar) | AirBnB Clone | Ruby, RSpec, sinatra, capybara, PostgreSQL | .. |
 <br>
 
 
@@ -41,6 +41,8 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 **Athena Hackathon October '22**<br>
 *ShowCode*, 22|10|2022 - 23|10|2022, London, UK
 - a 24-hour in-person hack
+- we were a team of 5 and it was the first full hackathon for all of us
+- our team chose the R² Factory theme 'How can households reduce their carbon footprint?'
 
 <br>
 
