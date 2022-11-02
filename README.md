@@ -44,7 +44,7 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 * our team chose the R² Factory theme 'How can households reduce their carbon footprint?'
 
 * [certificate](https://credsverse.com/credentials/848c61fb-1962-4d30-bdd5-94ed84a62d07)
-<img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/cera.png" width="800">
+<img src="https://raw.githubusercontent.com/laura-voss/CV/main/images/cera.png" width="400">
 
 
 ## <a name="skills">S K I L L S</a>
